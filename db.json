@@ -1,0 +1,209 @@
+{
+  "groups": [
+    {
+      "id": 2,
+      "name": "1a"
+    },
+    {
+      "id": 3,
+      "name": "1b"
+    },
+    {
+      "id": 4,
+      "name": "1c"
+    },
+    {
+      "id": 5,
+      "name": "1d"
+    },
+    {
+      "id": 6,
+      "name": "2a"
+    },
+    {
+      "name": "2b",
+      "id": 7
+    },
+    {
+      "name": "2c",
+      "id": 8
+    },
+    {
+      "name": "4b",
+      "id": 9
+    },
+    {
+      "name": "4a",
+      "id": 10
+    }
+  ],
+  "classes": [
+    {
+      "id": 8,
+      "name": "Math"
+    },
+    {
+      "id": 2,
+      "name": "Phy"
+    },
+    {
+      "id": 9,
+      "name": "Geo"
+    },
+    {
+      "id": 10,
+      "name": "Music"
+    },
+    {
+      "id": 11,
+      "name": "PE"
+    },
+    {
+      "id": 12,
+      "name": "Eng"
+    },
+    {
+      "id": 13,
+      "name": "CS"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Jon"
+    },
+    {
+      "id": 2,
+      "name": "David"
+    },
+    {
+      "id": 3,
+      "name": "Gao"
+    },
+    {
+      "name": "NING",
+      "id": 4
+    },
+    {
+      "name": "Oskar",
+      "id": 5
+    }
+  ],
+  "weeks": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "room": "110",
+      "group": "2a",
+      "class": "Eng",
+      "solt": "3",
+      "teacher": "NING",
+      "week": "Tue"
+    },
+    {
+      "id": 3,
+      "class": "CS",
+      "group": "4b",
+      "teacher": "Jon",
+      "room": "110",
+      "week": "Wed",
+      "solt": "1"
+    },
+    {
+      "id": 4,
+      "class": "Music",
+      "group": "1b",
+      "teacher": "Jon",
+      "room": "120",
+      "week": "Mon",
+      "solt": "1"
+    },
+    {
+      "id": 5,
+      "class": "PE",
+      "group": "1c",
+      "teacher": "Oskar",
+      "room": "121",
+      "week": "Tue",
+      "solt": "3"
+    },
+    {
+      "id": 6,
+      "class": "Phy",
+      "group": "2b",
+      "teacher": "David",
+      "room": "110",
+      "week": "Wed",
+      "solt": "6"
+    },
+    {
+      "id": 7,
+      "class": "Geo",
+      "group": "2a",
+      "teacher": "Gao",
+      "room": "145",
+      "week": "Thu",
+      "solt": "3"
+    },
+    {
+      "id": 8,
+      "class": "Phy",
+      "group": "1d",
+      "teacher": "Oskar",
+      "room": "110",
+      "week": "Tue",
+      "solt": "2"
+    },
+    {
+      "id": 9,
+      "class": "Math",
+      "group": "1b",
+      "teacher": "Jon",
+      "room": "110",
+      "week": "Tue",
+      "solt": "1"
+    },
+    {
+      "id": 10,
+      "class": "Geo",
+      "group": "2a",
+      "teacher": "David",
+      "room": "111",
+      "week": "Mon",
+      "solt": "1"
+    },
+    {
+      "id": 11,
+      "class": "PE",
+      "group": "1a",
+      "teacher": "Oskar",
+      "room": "120",
+      "week": "Tue",
+      "solt": "1"
+    },
+    {
+      "id": 12,
+      "class": "Phy",
+      "group": "1c",
+      "teacher": "Oskar",
+      "room": "111",
+      "week": "Mon",
+      "solt": "2"
+    },
+    {
+      "class": "Phy",
+      "group": "1b",
+      "teacher": "Oskar",
+      "room": "110",
+      "week": "Mon",
+      "solt": "4",
+      "id": 13
+    }
+  ]
+}
